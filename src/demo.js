@@ -113,6 +113,7 @@ class Demo extends Component {
         >
           Mantenimento
         </button>
+        {mivar}
       </div>
     );
   }
